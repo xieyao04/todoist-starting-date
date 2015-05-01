@@ -9,5 +9,7 @@ How to use
 =========
 
 Install python
+
 Launch cmd.exe (windows), terminal (mac) 
+
 python dir_to_startingdate_python_file --api_token yout_todoist_token(todoist setting -> account -> API token)
